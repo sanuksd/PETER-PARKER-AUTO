@@ -359,7 +359,7 @@ Name - {}
 ⪼ 𝐄𝐱𝐚𝐦𝐩𝐥𝐞 ›
 <code>/batch https://t.me/MatRixBotzTG https://t.me/MatRixBotzTG</code>
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/+LVTlT_SJ_ZZkNmY1><b>sanusmovies</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 <a href=https://t.me/+LVTlT_SJ_ZZkNmY1><b>sanusmovies</b></a>"""
     NORSLTS = """
 ★ #𝗡𝗼𝗥𝗲𝘀𝘂𝗹𝘁𝘀 ★
 
@@ -369,7 +369,7 @@ Name - {}
 
 𝗠𝗲𝘀𝘀𝗮𝗴𝗲 <b>: {}</b>"""
 
-𝙲𝚁𝙴𝙳𝙸𝚃𝚂 ›› <a href=https://t.me/cinema_kalavara><b>cinemakalavara</b></a>"""
+𝙲𝚁𝙴𝙳𝙸𝚃𝚂 <a href=https://t.me/cinema_kalavara><b>cinemakalavara</b></a>"""
 
 
 
